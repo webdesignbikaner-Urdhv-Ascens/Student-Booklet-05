@@ -1,0 +1,10 @@
+{
+  "bookletId": "student-05",
+  "title": "Booklet 05 - Think, Stay Safe & Get Future-Ready",
+  "version": "1.0.0",
+  "totalPages": 32,
+  "pageFormat": "webp",
+  "pageDirectory": "/pages/",
+  "thumbnailDirectory": "/thumbnails/",
+  "cover": "/preview/cover.webp"
+}
